@@ -1,6 +1,6 @@
 # AbdulAzeez Adebayo
 
-Backend-focused Software Engineer with hands-on experience building secure, production-ready APIs using Node.js, TypeScript, Express, mongoD and PostgreSQL. I focus on designing reliable backend systems with strong authentication, data validation, and real-world business logic.
+A Backend-focused Software Engineer with hands-on experience building secure, production-ready APIs using Node.js, TypeScript, Express, mongoD and PostgreSQL. I focus on designing reliable backend systems with strong authentication, data validation, and real-world business logic.
 
 ---
 

@@ -4,14 +4,12 @@ Backend-focused Software Engineer with hands-on experience building secure, prod
 
 ---
 
-## 🧠 What I work on
-- RESTful API design
-- Authentication & authorization
-- Email verification & OTP systems
-- PostgreSQL data modeling
-- Secure backend architecture
-- API-first product development
-
+##  What I work on
+- Designing RESTful APIs with strong authentication and authorization  
+- Implementing secure email verification & OTP systems  
+- PostgreSQL data modeling and database design  
+- Building reliable, scalable backend architectures  
+- API-first backend service development
 ---
 
 ## 🚀 Featured Projects

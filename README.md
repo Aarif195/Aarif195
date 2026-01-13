@@ -6,14 +6,12 @@ A Backend-focused Software Engineer building secure, production-ready APIs. I sp
 
 ### 🛠 Skills & Tools
 
-**Languages & Runtime**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Backend & Databases**
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Security & DevTools**
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+### ⚡ Current Tech Stack
+- **Languages:** TypeScript, JavaScript (ES6+)
+- **Runtime & Framework:** Node.js, Express.js
+- **Databases:** PostgreSQL (Relational), MongoDB (NoSQL)
+- **Authentication:** JWT, OAuth, Bcrypt, OTP
+- **Tools & Deployment:** Postman, Git/GitHub, Render
 
 ---
 
@@ -40,3 +38,9 @@ A Backend-focused Software Engineer building secure, production-ready APIs. I sp
 - **LinkedIn:** [Abdulazeez Adebayo](https://www.linkedin.com/in/abdulazeez-adebayo-aarif/)
 - **Twitter/X:** [@Abdulazeez195](https://x.com/Abdulazeez195)
 - **Email:** adebayoabdulazeez195@gmail.com
+
+---
+
+### 📊 GitHub Stats
+![Aarif195's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarif195&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=4169E1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarif195&layout=compact&theme=transparent&hide_border=true&title_color=3178C6)

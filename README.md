@@ -4,13 +4,10 @@ A Backend-focused Software Engineer building secure, production-ready APIs. I sp
 
 ---
 
-### 🛠 Skills & Tools
-
-### ⚡ Current Tech Stack
+### 🛠 Tech Stack
 - **Languages:** TypeScript, JavaScript (ES6+)
 - **Runtime & Framework:** Node.js, Express.js
-- **Databases:** PostgreSQL (Relational), MongoDB (NoSQL)
-- **Authentication:** JWT, OAuth, Bcrypt, OTP
+- **Databases:** PostgreSQL, MongoDB
 - **Tools & Deployment:** Postman, Git/GitHub, Render
 
 ---
